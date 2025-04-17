@@ -1,5 +1,4 @@
 #MDS_ROJEKAT_TESTIRANJE
 
-=Pokretanje testova=
 Prvo pokrenuti test za kreiranje korisnika, ili rucno kreirati korisnika prema zadatom uputstvu.
 Podaci za korisnika nalaze se u constants fajlu.
