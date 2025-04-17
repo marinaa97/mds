@@ -1,6 +1,7 @@
 # MDS_PROJEKAT_TESTIRANJE
 
 ## Pokretanje:
+- `cd testingProject`
 - `npm install`
 - `npx cypress open`
 
