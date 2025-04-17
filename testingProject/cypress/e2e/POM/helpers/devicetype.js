@@ -30,7 +30,7 @@ export const SUCCESS_CREATE_DEVICE_MESSAGE = 'Created device';
 
 //urls
 export const ADD_DEVICE_TYPES_URL = 'https://demo.netbox.dev/dcim/device-types/add/';
-export const ALL_DEVICES_URL = 'https://demo.netbox.dev/dcim/devices/'
-export const ADD_DEVICE_URL = 'https://demo.netbox.dev/dcim/devices/add/'
+export const ALL_DEVICES_URL = 'https://demo.netbox.dev/dcim/devices/';
+export const ADD_DEVICE_URL = 'https://demo.netbox.dev/dcim/devices/add/';
 export const All_DEVICES_TYPES_URL = 'https://demo.netbox.dev/dcim/device-types/';
 export const RACKS_URL = 'https://demo.netbox.dev/dcim/racks/39/';
