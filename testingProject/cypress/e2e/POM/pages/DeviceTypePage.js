@@ -84,7 +84,7 @@ class DeviceTypePage {
         cy.get('.option').contains(manufacturer).click();
         this.modelInput.clear().type(model);
         if (slug) {
-            this.slugInput.clear().type(slug); // Samo ako slug nije prazan
+            this.slugInput.clear().type(slug);
         }
         this.uHeightField.clear().type(uHeight);
         this.createBtn.click();
